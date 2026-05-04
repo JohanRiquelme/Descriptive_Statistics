@@ -29,6 +29,8 @@ The analysis shows that gender and socio-economic status (class) played a major 
 ## Files
 - `Descriptive Statistics_titanic_dataset.ipynb`
 
+  ******************************************************************************************************************
+
 # Featured Projects
 (Currently developing a structured data portfolio, GibHub likns;)
 
