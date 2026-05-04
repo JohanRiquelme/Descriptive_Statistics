@@ -1,11 +1,42 @@
 # Descriptive_Statistics
-Descriptive Statistics Titanic dataset
+# 📊 Titanic Dataset Analysis
+
+## Objective
+Analyze passenger data from the Titanic dataset to identify key factors that influenced survival rates.
+
+## Tools
+- Python (Pandas, NumPy)
+- Jupyter Notebook
+
+## Data Preparation
+- Cleaned missing values
+- Converted data types
+- Removed inconsistencies
+
+## Analysis
+- Survival rate by gender
+- Survival rate by passenger class
+- Age distribution of passengers
+
+## Key Insights
+- Female passengers had a significantly higher survival rate than males
+- First-class passengers were more likely to survive than lower classes
+- Younger passengers had slightly higher survival chances
+
+## Conclusion
+The analysis shows that gender and socio-economic status (class) played a major role in survival outcomes.
+
+## Files
+- `Descriptive Statistics_titanic_dataset.ipynb`
+
+# Featured Projects
+(Currently developing a structured data portfolio, GibHub likns;)
 
 GibHub likns; 
 
  
 # Read me
-https://github.com/JohanRiquelme/johanna || Read me
+https://github.com/JohanRiquelme/johanna ||  Read me 👋 About Me, Johanna
 
 # ePortfolio Public
 https://github.com/JohanRiquelme/ePortfolio || ePortfolio Public | job simulations. (it is in growing up).
